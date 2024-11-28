@@ -1,0 +1,16 @@
+#Programação orientada a objetos com NodeJS
+
+->O nodejs geralmente é associado a programação orientada a eventos e ao estilo funcional,mas tambem é possivel
+aplicar conceitos de POO
+
+obs: o JavaScript introduziu a keyword class no ECMAScript 2015(pense como o "núcleo" do JavaScript). Isso faz com que o JS aparente ser uma linguagem poo, apenas
+redefinindo alguns conceitos de sintaxe, mas logica em geral continua a mesma
+
+
+->obs: quando usar let ou var
+var: definida globalmente ou no escopo da função e pode ser atualizada e declarada novamente
+let: variavel definida no bloco,instrução ou expressao em que é usada e pode ser atualizada, mas nao declarada novamente
+(lembrando que let depende do bloco, ou seja, eu posso sim declarar novamente em blocos diferentes)
+é preferivel que se utilize let para evitar confusoes com o nome das variaveis
+
+
